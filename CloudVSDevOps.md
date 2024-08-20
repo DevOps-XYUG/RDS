@@ -10,3 +10,5 @@ In summary, cloud engineers focus on the underlying infrastructure and platforms
 Amulya kusuma
 
 DevOps Engineer
+
+2024
